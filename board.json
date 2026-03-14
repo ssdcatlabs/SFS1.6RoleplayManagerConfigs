@@ -1,10 +1,6 @@
 {
   "Invites Locked!": {
-    "text": "Season 1 of the RP is coming to a end on March 13, 2025. After that Season 2 will start. If you want to join, please join when season 2 releases. This is so that someone's aerospace career wouldn't end in just a few days after they join.",
-    "status": "Danger"
-  },
-  "New styles!": {
-    "text": "New CSS styles have been added so it looks better then before! I do have a backup of the old site.",
-    "status": "Info"
+    "text": "Theres a new version of kiwi main engines you can find it here: https://github.com/ssdcatlabs/kiwi/releases/tag/v1.4b2",
+    "status": "Warning"
   }
 }
