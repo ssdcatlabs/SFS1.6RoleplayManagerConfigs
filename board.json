@@ -1,5 +1,9 @@
 {
-  "Invites Locked!": {
+  "Github and JSON knowledge required": {
+    "text": "To join the RP you need a knowledge of JSON and github.",
+    "status": "Warning"
+  }
+  "New version": {
     "text": "Theres a new version of kiwi main engines you can find it here: https://github.com/ssdcatlabs/kiwi/releases/tag/v1.4b2",
     "status": "Warning"
   }
